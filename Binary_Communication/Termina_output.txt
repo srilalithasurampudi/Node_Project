@@ -1,0 +1,19 @@
+C:\Users\HP\OneDrive\Desktop\Binary_Nodejs> node .\Client.js
+Connected to server
+Enter Company:Apple Computers
+Enter Symbol: AAPL
+Enter Num Ordered: 4
+
+C:\Users\HP\OneDrive\Desktop\Binary_Nodejs> node .\Client.js
+Connected to server
+Enter Company:ABC Inc
+Enter Symbol: IBM
+Enter Num Ordered: 2
+Price: 220
+
+C:\Users\HP\OneDrive\Desktop\Binary_Nodejs> node .\Client.js
+Connected to server
+Enter Company:DEF Inc
+Enter Symbol: SHE
+Enter Num Ordered: 4
+Price: ERROR NOT KNOWN
